@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
+### Its_me_BoltSer
 
 
 ### ⚠️ Warning! 
@@ -46,7 +46,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![BOLT SER](<img src=20220308_144444.jpg.jpg>
- https://github.com/Amalser_v1 |  
+ https://github.com/BOLT-SER |  
 ----|
 [Its_me_Bolt](https://github.com/BOLT-SER-CFCX)  |
 Base, Bug Fixes, Modules | 
