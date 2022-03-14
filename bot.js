@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
+@BOLT-SER 
+BOLT-SER
 /
-RICHUSER_B1
+BOLT-SER-CFCX
 Public
-forked from richusir/RICHUSER_B1
+forked from BOLT-SER/BOLT-SER-CFCX
 0
 1121
 Code
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('BOLT-SER-CFCX working perfectly 💘')
         );
     });
     
